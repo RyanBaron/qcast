@@ -1,0 +1,7 @@
+name: qcast
+recipe: pantheon
+config:
+  framework: wordpress
+  site: qcast
+  webroot: web
+  id: 91fc8e31-57ae-45ea-8227-92a2af4573e5
